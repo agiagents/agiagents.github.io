@@ -1,0 +1,1306 @@
+{
+    "pages": {
+        "education": {
+            "title": "AI and Education",
+            "description": "The old-fashioned way of education has shifted to AI-based education for an efficient, more manageable, and less time-consuming process. Artificial intelligence is beginning to improve and provide better support for the education departments. AI can optimize both learning and teaching systems and assist the evolution process of the training area in benefiting students and teachers. Also, AI is changing this field with incredible speed. Even though most experts believe the critical presence of teachers is irreplaceable, there will be many changes to a teacher’s career and educational practices.",
+            "first_card_title":"hallenges in education and training",
+            "first_card_image":"AI-and-education-1.png",
+            "first_card_content":"This section talks about the main problems educational departments and students face while trying to do their part efficiently and adequately. The main reasons AI is felt needed are the staff shortage and not having something to assist teachers while doing their enormous tasks. These challenges, plus supporting students and managing the facility, have become a broader and more problematic issue during the covid virus, which requires special attention.",
+            "second_card_title":"ut AI is ready to help you",
+            "second_card_image":"AI-and-education-2.png",
+            "second_card_content":"Although the problems in this field are many, AI has already found solutions for some and can help you make your personalized education system at a lower cost. These attractive solutions offered by AI can enhance productivity, eliminate education gaps, provide an efficient road map, and are listed below in three categories.",
+            "problems":[
+                {
+                    "numbers":5,
+                    "subproblems": [
+                        {
+                            "title": "Education gap",
+                            "description":"The location, family and financial status, culture, religion, and other factors that have made a massive gap between people and taken away the equal opportunity to learn the desired subjects will be omitted by AI."    
+                        },
+                        {
+                            "title": "Teaching",
+                            "description":"Teachers confront many challenges while adapting to new teaching styles, new languages, and coding. Students also face challenges such as difficulty in understanding those materials efficiently in a limited amount of time."
+                        },
+                        {
+                            "title": "Grading",
+                            "description":"Grading and attending to each student individually are two other teachers’ time-consuming challenges that cause the lack of interaction with students and manual grading mistakes in large classes."
+                        },
+                        {
+                            "title": "Global student interaction",
+                            "description":"The difficulty of interacting and sharing knowledge with students from other countries is challenging in traditional training."
+                        },
+                        {
+                            "title":"Checking students’ conditions",
+                            "description":"Analyzing students’ study statuses and well-being is one of the significant issues in which many students typically don’t get analyzed or achieve the desired result, especially in long-distance education."
+                        },
+                        {
+                            "title": "Teaching to the disabled",
+                            "description":"The lack of materials and facilities for the disabled, especially students with hearing and vision disabilities, is worth mentioning."  
+                        },
+                        {
+                            "title":"Distanced identification",
+                            "description":"These days, due to covid19 and the remote education process, student and staff identification and verification have become much more complicated than before."
+                        },
+                        {
+                            "title":"Outside school problems",
+                            "description":"This issue emerges when students have no guidance to help with their homework or prepare for their exams. In this situation, the parents are their only option, which obviously is less effective and progressive than a professional tutor."
+                        },
+                        {
+                            "title":"Administrative and educational process management",
+                            "description":"Managing finances, recruiting staff, attendance info, scheduling staff, and students programs, registration process, traditional course schedule management, and handling facilities are hard to be solved manually."
+                        },
+                        {
+                            "title":"Transportation",
+                            "description":" Adequately managing the transportation system for students and staff requires accessing drivers’ identity, background, experience, and schedule data which is currently done slowly and ineffectively."
+                        }
+                    ]
+                }
+            ],
+            "solutions":[
+                {
+                    "title":"Education",
+                    "items":[
+                        "Making digital textbooks",
+                        "Student rating and analyzing platform",
+                        "Assisting students during their outclass activities",
+                        "Automating mistake detection in exams and homework",
+                        "Personalizing learning programs based on student needs",
+                        "Simplifying the situation for international students to use online courses"
+                    ]
+                },
+                {
+                    "title":"Management",
+                    "items":[
+                        "Recognizing student mood",
+                        "Automating cost management",
+                        "Securing the study environment",
+                        "Automating paperwork classification",
+                        "Aiding educators in administrative tasks",
+                        "Automating staff and students' schedules"
+                    ]
+                },
+                {
+                    "title":"Transportation",
+                    "items":[
+                        "Improving fleet durability",
+                        "Displaying the pickup point of every student",
+                        "Storing and updating students' locations for drivers automatically",
+                        "Checking on the effectiveness of every school bus route regularly"
+                    ]
+                }
+            ],
+            "product":"Now that we know about the challenges and solutions in the education department, it is time to comprehend which one of our AI-based products is suitable enough to solve them. Face SDK, Document SDK, and License Plate SDK are the most practical and efficient products to support students and staff while facing any challenges in the education department."
+               
+        },
+        "healthcare":{
+            "title":"AI and Healthcare",
+            "description":"Artificial Intelligence is getting increasingly sophisticated at performing what humans do but faster, more affordable, and more effective. AI has simplified the lives of patients, doctors, and hospital administrative crew. The potential for both AI and robotics in healthcare is extensive. Just like in our everyday lives, AI and robotics are frequently a part of our healthcare ecosystem.",
+            "first_card_title":"hallenges in healthcare and medical field",
+            "first_card_image":"AI-and-healthcare-1.png",
+            "first_card_content":"Similar to other industrial fields, healthcare has confronted a considerable number of challenges. Even though advancing technology has brought solutions for some, many still need to be solved manually. As you will read in this section, we will talk about these challenges and how AI can help solve them.",
+            "first_card_items":[
+                "Healthcare policy",
+                "High costs of care",
+                "Shortage of medicine",
+                "Holistic individual health",
+                "Lack of insurance coverage",
+                "Difficulty finding a qualified doctor",
+                "The nursing and physician shortage",
+                "Lack of medical equipment or obsolescence of their model"
+            ],
+            "second_card_title":"Intelligent solutions for each healthcare branch:",
+            "second_card_image":"AI-and-healthcare-2.png",
+            "second_card_content":"The world is changing, and with that, healthcare is changing too! With the rapid progressions in technology and the power of AI, we can help you overcome those issues in the quickest, cheapest, and most efficient way.",
+            "second_card_subtitle":"Intelligent solutions for each healthcare branch:",
+            "second_card_items":[
+                "Medical care",
+                "Administrative branch",
+                "Medicinal (Pharmaceutical)",
+                "Research"
+            ],
+            "problems":[
+               { 
+                "numbers":6,
+                   "subproblems":[
+                    {
+                        "title":"Time-consuming registration process",
+                        "description":"Doctors, nurses, and other care providers all have to spend a lot of time doing paperwork and dealing with administrative tasks that burn a lot of their valuable time."
+                    },
+                    {
+                        "title":"Crowds to visit a doctor",
+                        "description":"This is one of the most frustrating challenges patients face. It is common to see many people waiting in the patient reception line to visit a doctor. So, this situation leads to problems such as wasting time, irregularities in admission, and the possibility of transmitting infectious diseases."
+                    },
+                    {
+                        "title":"Lack of real-time management",
+                        "description":"This issue has a tremendous impact on wasting time. It makes it impossible to have efficient performance in admission management, accessing patient information, and also internal unit alignments at the hospital at the moment and immediately."
+                    },
+                    {
+                        "title":"Ineffective internal communication",
+                        "description":"Here, the main challenge will be internal communication in healthcare centers which can cause waste of money and poor patient care."
+                    },
+                    {
+                        "title":"Information overload",
+                        "description":"A large amount of information and absence of adequate classification cause disorder and make it difficult to access information."
+                    },
+                    {
+                        "title":"Data security",
+                        "description":"In the absence of a proper security system for data protection, the possibility of compromising privacy, leaking information, or losing it, is increased."
+                    },
+                    {
+                        "title":"Administrative process flaws",
+                        "description":"Sometimes, due to system defects, slowness, and human errors such as entering incorrect information or illegibility of writing, the administrative process will be complicated or disrupted."
+                    },
+                    {
+                        "title":"Mortality issues",
+                        "description":"Unfortunately, sometimes, due to the doctor’s wrong diagnosis and mistakes made inadvertently, the patient’s life is endangered, which is one of the most disturbing problems in this field."
+                    },
+                    {
+                        "title":"Lack of accurate and complete information",
+                        "description":"A troublesome subject is the lack of adequate information about the patient’s situation to file a case and examine his medical records."
+                    },
+                    {
+                        "title":"Pressure on pharmaceutical prices",
+                        "description":"Having a shortage in the budget will lead to slower pharmaceutical development or putting down the whole research project."
+                    },
+                    {
+                        "title":"Challenges for physicians in surgery",
+                        "description":"The tedious and time-consuming nature of some surgeries due to their complexity is also one of the problems surgeons struggle with."
+                    },
+                    {
+                        "title":"Long-term recovery",
+                        "description":"Due to the complexity of some surgeries, the manipulation of the patient’s body, and physical condition, the healing process sometimes takes longer than expected."
+                    }
+                ]}
+                
+            ],
+            "solutions":[
+                {
+                    "title":"Medical diagnosis",
+                    "description":"One of the most critical uses of artificial intelligence in healthcare is medical diagnostics. Among the significant advantages of using artificial intelligence, the followings are worth mentioning:",
+                    "items":[
+                        "Predicting stroke outcomes.",
+                        "Showing acute abnormalities.",
+                        "Diagnosing cardiac arrhythmias.",
+                        "Testing essential findings in medical imaging.",
+                        "Assisting the management process of chronic diseases.",
+                        "Assisting radiologists in prioritizing life-threatening cases.",
+                        "Reducing medical errors (misdiagnosing illness and surgery errors).",
+                        "Accelerating the diagnosis process to improve the treatment quality of cancers and tumors."
+                    ]
+                },
+                {
+                    "title":"Administrative branch",
+                    "description":"The administrative section in healthcare has broad areas that can benefit from artificial intelligence technologies. These areas are divided into the following sections:",
+                    "items":[
+                        "Accessing patient’s information and medical records",
+                        "Classifying medical documents and information",
+                        "Real-time situation management",
+                        "Patient’s admission process",
+                        "Insurance-related tasks",
+                        "Being responsive 24/7",
+                        "Data security"
+                    ]
+                },
+                {
+                    "title":"Other medical care affairs",
+                    "description":"Artificial intelligence has been a great help to doctors, nurses, and other medical staff members. It has various applications and benefits in this field, which will be reviewed below:",
+                    "items":[
+                        "Using in radiology, physiotherapy, hematology, and pathology.",
+                        "Monitoring health through wearables and personal devices.",
+                        "Making smartphone selfies into powerful diagnostic tools.",
+                        "Providing efficient and unique assistance in surgery.",
+                        "Receiving better and more personalized care."
+                    ]   
+                },
+                
+                {
+                    "title":"Medicinal (Pharmaceutical)",
+                    "description":"Artificial intelligence usage in the pharma and biotech industry has redefined how scientists develop new drugs, tackle diseases, etc. Some of the advantages of using AI is mentioned below:",
+                    "items":[
+                        "Reducing the time to identify efficacious drug",
+                        "Catching dangerous drug interactions early",
+                        "Supplying the drugs faster to the market",
+                        "Developing new drugs"
+                    ]
+                },
+                {
+                    "title":"Research",
+                    "description":"AI has a significant impact on research in the area of healthcare. Not only it reduces the cost, but also helps researchers in finding new medicines. Some of the advantages of using AI is mentioned below:",
+                    "items":[
+                        "Discovering drugs",
+                        "Reducing research cost",
+                        "Making medical diagnosis easier",
+                        "Identifying clinical trial candidates",
+                        "Predicting future disease outbreaks",
+                        "Creating personalized/precision medicines",
+                        "Helping in the differential diagnosis"
+                    ]
+                }
+            ],
+            "product":"Now that we know about the challenges and solutions in the healthcare and medical field, it is time to comprehend which one of our AI-based products is suitable enough to solve them. Face SDK and Document SDK are two AI-based products using deep learning and machine learning, capable of assisting experts in this area."
+        },
+        "security":{
+            "title":"AI and Safety & Security",
+            "description":"Nowadays, analyzing, providing, and improving the safety and security postures in various fields is not a human-scale problem anymore. Safety and security enhancement and fixing a large part of challenges in this area is possible through artificial intelligence (AI), machine learning (ML), and the Internet of Things (IoT). These technologies learn over time, drawing from the past to identify new types of dangers and risks in multiple domains, which is one of the best features of these state-of-the-art technologies. They also help detect and respond to deviations by setting norms promptly before causing irreparable damage.",
+            "first_card_title":"hallenges in safety and security",
+            "first_card_content":"Problems in safety and security are divided into multiple categories, which will be explained in detail. Imagine if all the challenges in this area were supposed to be solved by human resources. They certainly could not handle it adequately and would cause severe and irreparable complications. As a result, humans are always looking for the best way to manage crises and solve potential issues. In this regard, artificial intelligence has performed a significantly impressive role in assisting human resources.",
+            "first_card_image":"AI-and-security-1.png",
+            "second_card_title":"ut AI is ready to help you",
+            "second_card_content":"Safety and security features play a vital role in human lives. The previously mentioned issues may cause multiple complications in our everyday activities. But today, to solve these problems efficiently, artificial intelligence technology and its exceptional solutions have helped us experience an ideally safer world. Solutions provided by AI are categorized below:",
+            "second_card_image":"AI-and-security-2.png",
+            "problems":[
+                {
+                    "title":"cybersecurity",
+                    "numbers":4,
+                    "subproblems":[
+                        {
+                            "title":"Modern malware",
+                            "description":"Modern malware is brilliant, which means it can learn as it goes, so it is difficult for human resources to find and destroy them quickly. This issue may cause terrible problems in a company or other places using any software."
+                        },
+                        {
+                            "title":"Malicious websites",
+                            "description":" Surfing unlimitedly on the Internet without any warning tools may involve users in malicious and unknown malware, which puts their systems and information at risk."
+                        },
+                        {
+                            "title":"Sources of attacks",
+                            "description":"Any average company regularly deals with numerous threats. They need to anticipate, detect and identify any threats to stay protected. Handling these threats without using AI technology could be precarious and cause many obstacles for companies since they usually cannot find the source of attacks easily and in real-time."
+                        },
+                        {
+                            "title":"Hackers",
+                            "description":"Since hackers frequently change their tactics, the kind of threats business networks face changes from time to time. This makes it challenging for the company to prioritize security tasks. You may have to deal with a phishing attack along with a denial-of-service attack or ransomware at a go. Also, once an attacker accesses a user account, your whole network will be at risk."
+                        },
+                        {
+                            "title":"Staffing's fatigue",
+                            "description":"As mentioned earlier, attackers change their tactics frequently, but companys’ primary security methods usually remain the same. Hiring human resources to handle security tasks may raise the possibility of tiredness, defect, and wrong decisions. As a result, they could miss a vital security action and expose your network."
+                        },
+                        {
+                            "title":"Data transfer",
+                            "description":"A large amount of data are constantly transferred between customers and the business. This data needs protection from malicious people and software, but cybersecurity staff cannot continually check all the traffic for possible threats."
+                        },
+                        {
+                            "title":"Real-time reactions",
+                            "description":"Although humans are fast, they are not quick enough to scrutinize millions of sites in real-time to identify suspicious websites. This restricts staff members from analyzing tons of visitors and categorizing them based on their threat level and behavior in a few seconds."
+                        },
+                        {
+                            "title":"Secure authentication",
+                            "description":"If you possess a site that needs visitors to log in, feature forms that require inputs, or want to provide another layer of security on the site’s backend, without using AI technologies, you won’t be able to improve your site’s security as high as mentioned above."
+                        }
+                    ]
+                },
+                {
+                    "title":"military defense",
+                    "numbers":3,
+                    "subproblems":[
+                        {
+                            "title":"Mine clearance",
+                            "description":"Mine clearing is one of the most complex military tasks that can cause irreparable damage and casualties in the slightest mistake."
+                        },
+                        {
+                            "title":"Supply convoys",
+                            "description":"The military convoy constantly moves on long and unsafe routes and distances to meet basic needs. This makes them vulnerable to unexpected attacks and ambushes, causing damage and casualties."
+                        },
+                        {
+                            "title":"Time and money-consuming",
+                            "description":"Training human resources and skilled professionals is time-consuming and requires a lot of investment."
+                        },
+                        {
+                            "title":"Low efficiency",
+                            "description":"Performing military duties by soldiers and human resources is complicated and exhausting, resulting in efficiency reduction. It is necessary to note that the mentioned efficiency level can lead to destructiveness or fatalities in critical situations."
+                        },
+                        {
+                            "title":"Environmental conditions",
+                            "description":"Unsuitable conditions in military environments and GPS-absent regions such as insufficient lighting, unfavorable weather, low level of safety in buildings, urban areas, caves, tunnels, and other high-risk environments cause a lack of information about the potential threats."
+                        }
+                    ]
+                },
+                {
+                    "title":"road safety",
+                    "numbers":2,
+                    "subproblems":[
+                        {
+                            "title":"High-risk behaviors",
+                            "description":"High-risk driving behaviors such as hard braking, sharp turns, and high speed can cause irreparable damage and, in some cases, driving failures."
+                        },
+                        {   
+                            "title":"Road accident records",
+                            "description":"Some roads and streets have common patterns of accidents that drivers are unaware of, which increases the rate of accidents."
+                        },
+                        {
+                            "title":"Unwelcome distractions",
+                            "description":"Specific physical features trouble drivers, and the more cluttered the environment, the harder it is to concentrate. Street furniture such as benches and public art, vibrant advertising close to roads, and parked cars are unwelcome distractions."
+                        },
+                        {
+                            "title":"Improper vision",
+                            "description":"Sometimes, weather conditions and other external factors reduce vision in motorists, which can be hazardous."
+                        }
+                    ]
+                },
+                {
+                    "title":"crime detection",
+                    "numbers":1,
+                    "subproblems":[
+                        {
+                            "title":"Crime prediction",
+                            "description":"Predicting the time and place of a potential crime in the shortest time, before the offense ever happens, is a time-consuming and challenging task for the police. Without the help of AI, it is almost impossible to apprehend criminals immediately."
+                        },
+                        {
+                            "title":"Analyzing data",
+                            "description":"Analyzing a considerable amount of data in real-time to find the pattern of former crimes and predicting when and where the next crime is most likely to happen by staff is a cumbersome task."
+                        }
+                    ]
+                },
+               {
+                   "title":"large events and crowds",
+                   "numbers":2,
+                   "subproblems":[
+                        {
+                            "title":"Identify people's identity",
+                            "description":"Inability to verify people's identity allowed to enter a public ceremony or gathering can cause unfortunate incidents or chaos."
+                        },
+                        {
+                            "title":"Stealing",
+                            "description":"The possibility of stealing people's wallets and pockets in long and crowded queues is very high, and this issue has always been a serious concern for people."
+                        },
+                        {
+                            "title":"Physical inspection",
+                            "description":"Failure to accurately detect metallic and non-metallic explosives, firearms, and other concealed weapons on a person during the physical inspection will have irreparable consequences."
+                        }
+                   ]
+               },
+               {
+                   "title":"home surveillance",
+                   "numbers":1,
+                   "subproblems":[
+                       {
+                           "title":"Unexpected problems",
+                           "description":"Gas leak, water leak, and power outage are possible concerns occurring at residential buildings. If they are not resolved as soon as possible, there will be substantial damages such as fire, explosion, destruction, and also people’s lives will be endangered."
+                       },
+                       {
+                           "title":"Unknown people and thieves",
+                           "description":"Lack of a robust security system to recognize the faces of strangers and detect suspicious actions can lead to vandalism and insecurity."
+                       }
+                   ]
+               },
+               {
+                   "title":"food",
+                   "numbers":1,
+                   "subproblems":[
+                        {
+                            "title":"Contaminant detection",
+                            "description":"Although it is easy for humans to distinguish various food contaminants, in some cases, the identification process is complicated and can highly raise the possibility of pollution propagation."
+                        },
+                        {
+                            "title":"Product quality control",
+                            "description":"Quality control of food merchandise is one of the most critical stages of the production procedure. Any fault occurrence in the product’s life cycle leads to the entrance of low-quality products into the market."
+                        }
+                   ]
+               }
+               
+            ],
+            "solutions":[
+                {
+                    "title":"Cybersecurity",
+                    "items":[
+                        "Analyzing events",
+                        "Fighting hackers",
+                        "Simplifying security tasks",
+                        "Keeping data in safe databases",
+                        "Responding and monitoring 24/7",
+                        "Fraudulent activity detection in real-time",
+                        "Instant and automate threat identification",
+                        "Malware and intrusion detection in real-time",
+                        "Detecting anomalies and patterns on big scales"
+                    ]
+                },
+                {
+                    "title":"Crime detection",
+                    "items":[
+                        "Tracking criminals",
+                        "Predicting potential crimes",
+                        "Detecting drugs in real-time",
+                        "Accessing criminals’ records",
+                        "Analyzing data based on former crimes"   
+                    ]
+                },
+                {
+                    "title":"Military defense",
+                    "items":[
+                        "Reducing the cost of training experts",
+                        "",
+                        "Accessing and exploring GPS-absent areas",
+                        "Reviewing common patterns in military plans",
+                        "Neutralizing war mines precisely and accurately",
+                        "Automatically controlling uncrewed jets and tanks",
+                        "No exhaustion while performing complicated tasks",
+                        "Battlefield experiences with minimal human participation",
+                        "Decision making in emergency cases without emotional involvement"   
+                    ]
+                },
+                {
+                    "title":"Large events and crowds",
+                    "items":[
+                        "Detecting hidden weapons",
+                        "Lowering the stealing rate",
+                        "Improving the security level of events",
+                        "Tracking and identifying suspicious movements",
+                        "Recognizing, identifying, and confirming people’s identity"  
+                    ]
+                },
+                {
+                    "title":"Road safety",
+                    "items":[
+                        "Reducing hazardous driving behaviors",
+                        "Providing real-time feedback to drivers",
+                        "Mitigating human errors behind the wheel",
+                        "Avoiding accidents before their occurrence",
+                        "Road monitoring using surveillance cameras",
+                        "Maintaining safe distances between vehicles",
+                        "Assisting drivers in selecting the correct lane",
+                        "Reminding drivers to follow specific traffic rules",
+                        "Assisting during unsuitable weather situations" 
+                    ]
+                },
+                {
+                    "title":"Home surveillance",
+                    "items":[
+                        "Monitoring safety status 24/7",
+                        "Real-time reaction to emergencies",
+                        "Fire, water, and gas spread prevention",
+                        "Recording any suspicious person or movement",
+                        "Identifying people as the homeowner, family member, friend, or a stranger"   
+                    ]
+                },
+                {
+                    "title":"Food safety",
+                    "items":[
+                        "Detecting food contaminants",
+                        "Automating product quality control",
+                        "Preventing contaminated food propagation" 
+                    ]
+                }
+
+            ],
+            "product":"Now that we know about the challenges and solutions in the safety and security fields, it is time to comprehend which one of our AI-based products is suitable enough to solve them. Face SDK, Document SDK, and License Plate SDK are the most practical and efficient products to provide safety and security for people, careers, cities, public and residential areas, and many other circumstances in our everyday lives."
+        },
+        "iot":{
+            "title":"AI and IoT",
+            "description":"Artificial Intelligence (AI) and the Internet of Things (IoT) are today's most popular technologies. Due to the future and potential of IoT devices, a significant amount of investment in these new technologies is required. Today's world business is changing, and by the convergence of AI and IoT, the functionality of industries, economics, and commerce is redefined.\nAn intelligent IoT device enables high precision and fast data analysis, optimizing the system efficiency and creating higher performance and business insights. All IoT-related services inevitably follow five basic steps: create, communicate, aggregate, analyze, and act. 'Acting' is irrefutably contingent on the penultimate analysis between these five steps. Consequently, IoT's precise value is determined at its analysis stage, where AI steps in.\nBy combining IoT with advanced AI technologies, you get 'AIoT,' which can create smart machines that simulate intelligent behavior to make well-informed decisions with little or no human intervention. The result is an acceleration in innovation which can significantly boost productivity for the organizations involved. So, you can assume the Internet of Things devices like the digital nervous system while artificial intelligence is the brain of that system.",
+            "first_card_title":"hallenges and problems that AIoT can solve",
+            "first_card_content":"The modernization of life and the growing population of cities put immense pressure on energy and water resources, transportation networks, security issues, the environment, the national health care budget, and many other aspects of modern life. These problems can be solved or reduced using the Internet of Things and AI-based solutions.",
+            "first_card_image":"AI-and-iot-1.png",
+            "second_card_title":"ut AI is ready to help you",
+            "second_card_content":"The technology landscape has gone through many modifications to improve these issues. At the forefront of driving these changes is the Intelligence of Things (IoT). Artificial Intelligence in IoT product development offers tons of benefits in operations, management, customer behavior analysis, and more.",
+            "second_card_image":"AI-and-iot-2.png",
+            "problems":[
+                {
+                    "title":"Traffic and transportation",
+                    "numbers":2,
+                    "subproblems":[
+                        {
+                            "title":"Public parking availability",
+                            "description":"Finding public parking slots without knowing the parking status is challenging and time-consuming and increases traffic and air pollution."
+                        },
+                        {
+                            "title":"Movement pattern",
+                            "description":"Lack of an intelligent system to assist in preparing the urban population density map, busy hours, and the citizens' movement patterns in the city can slow down municipal services and cause traffic and chaos in some public areas."
+                        },
+                        {
+                            "title":"Road maintenance and public transportation",
+                            "description":"Not being aware of the road conditions, such as potholes on the road surface and failure to address them promptly, causes dissatisfaction for the citizens, traffic, and other similar problems."
+                        },
+                        {
+                            "title":"Driving",
+                            "description":"Dangerous driving behaviors such as drowsiness, careless and unexpected driving events, and also unsuitable road conditions may increase the rate of accidents and cause irreparable damage."
+                        }
+                    ]
+                },
+                {
+                    "title":"Inside the houses",
+                    "numbers":2,
+                    "subproblems":[
+                        {
+                            "title":"Electrical devices",
+                            "description":"Almost all electrical devices used in homes, from the simplest to the most complex, can have power outages, leading to irreparable device damage or fire."
+                        },
+                        {
+                            "title":"Wasting energy",
+                            "description":"Using devices requiring different types of energy such as water, electricity, and gas, which cannot be intelligently adapted, leads to energy loss and high energy costs."
+                        },
+                        {
+                            "title":"Safety",
+                            "description":"The presence of suspicious people around the house without having an intelligent control device can cause unfortunate incidents such as theft and insecurity."
+                        }
+                    ]
+                },
+                {
+                    "title":"Industry and jobs",
+                    "numbers":2,
+                    "subproblems":[
+                        {
+                            "title":"Time-consuming tasks",
+                            "description":"In various occupations and industries, performing repetitive and time-consuming tasks by staff leads to fatigue and increases human errors, which can cause irreparable damage to the workforce or industry."
+                        },
+                        {   
+                            "title":"Workers with complex jobs",
+                            "description":"Many workers cannot monitor their physical condition regularly due to a lack of intelligent wearables. As a result, they experience extreme fatigue, overheating, and the like."
+                        },
+                        {
+                            "title":"Analyzing data",
+                            "description":"Manual analysis of an enormous amount of data is tedious and increases the potential of errors that sometimes cause immense losses."
+                        }
+                    ]
+                },
+                {
+                    "title":"Healthcare",
+                    "numbers":2,
+                    "subproblems":[
+                        {
+                            "title":"Patients' status",
+                            "description":"It is almost impossible to monitor the condition of patients through individual staff without making any mistakes. Also, using monitoring devices with low accuracy can disrupt the treatment process."
+                        },
+                        {
+                            "title":"Medical equipment performance",
+                            "description":"An unplanned downtime due to the equipment breakdown can cost a lot of money. Knowing that the performance of medical equipment and the health system is one of the most critical issues in hospitals, managing them all with human resources is time-consuming and error-prone."
+                        },
+                        {
+                            "title":"Medical equipment location",
+                            "description":"Locating medical equipment such as wheelchairs, defibrillators, nebulizers, oxygen pumps, and other emergency monitoring equipment for immediate patient care is critical since any delay in using these devices can cause irreparable damage."
+                        },
+                        {
+                            "title":"Home care for the elderly",
+                            "description":"Vulnerable people need to be monitored around the clock to prevent or resolve potential difficulties as soon as possible. In addition, at older ages, their ability to do daily tasks decreases, and they need someone else to help. These issues require a lot of time and human resources. In addition, if potential problems are not resolved in time, they can lead to irreparable damage."
+                        }
+                    ]
+                },
+               {
+                   "title":"The environment",
+                   "numbers":2,
+                   "subproblems":[
+                        {
+                            "title":"Air pollution",
+                            "description":"Due to population growth, factory activities, and vehicle movements, air pollution is deteriorating. One of the consequences is the adverse environmental effects and huge non-economic costs on social care and national health services."
+                        },
+                        {
+                            "title":"Water pollution",
+                            "description":"Typically, during the process of diagnosing water pollution, you have to collect the water, send it into a lab, use culture, grow bacteria, and so on. By the time the results are back, there are already people accessing, drinking, and getting sick or dying because of the toxic pollution."
+                        },
+                        {
+                            "title":"Agriculture",
+                            "description":"Soil temperature is a critical factor for crop growth, and if this temperature is not controlled accurately and continuously, it will damage agricultural products, cause financial losses for farmers, and insufficient food needs."
+                        }
+                   ]
+               }
+            ],
+            "solutions":[
+                {
+                    "title":"Managing Risks",
+                    "items":[
+                        "Supervising devices consistently",
+                        "Maintaining security against cyber attacks",
+                        "Handling financial loss, employee safety, and cyber threats efficiently",
+                        "Preventing unintended downtime from any AI-embedded devices",
+                        "Allowing systems to take actions in real-time when things go wrong",
+                        "Assessing the potential risks of an organization and preventing them with practical actions"
+                    ]
+                },
+                {
+                    "title":"Healthcare",
+                    "items":[
+                        "Drug research",
+                        "Mobile healthcare",
+                        "Electronic health records",
+                        "Consulting remote healthcare",
+                        "Making clinical trials more airtight",
+                        "Researching oncology and genetics",
+                        "helping doctors detect even negligible physical changes in skin and organs" 
+                    ]
+                },
+                {
+                    "title":"Customer Experience",
+                    "items":[
+                        "Helping to personalize marketing and segment targeting for more campaign effectiveness"
+                    ]
+                },
+                {
+                    "title":"Automobiles",
+                    "items":[
+                        "Controlling electric and autonomous vehicles",
+                        "Predicting the behavior of pedestrians and cars in various circumstances",
+                        "Determining optimal speed, road and weather conditions" 
+                    ]
+                },
+                {
+                    "title":"Manufacturing",
+                    "items":[
+                        "Saving time and cost",
+                        "Reducing operational expenses",
+                        "Making the manufacturing process better over time",
+                        "Optimizing the efficiencies of industrial automation, robotic arms, and deep learning algorithms"  
+                    ]
+                },
+                {
+                    "title":"Voice Assistants",
+                    "items":[
+                       "Consistently learning about user preferences, tastes, interests, and online behavior",
+                        "Recommending personalized content based on earned data",
+                        "Detecting keywords and helping users get advanced or super-precise results for their queries "
+                    ]
+                },
+                {
+                    "title":"Smart Cities and Homes",
+                    "items":[
+                        "Ensuring advanced safety for civilians and homeowners with airtight security systems",
+                        "Assisting in the responsible consumption of non-renewable resources, curbing pollution, etc."
+                    ]
+                },
+                {
+                    "title":"Edge Computing",
+                    "items":[
+                        "Bringing in real-time decision-making systems",
+                        "Reducing storage and data communication costs",
+                        "Managing, analyzing, and obtaining meaningful insights from data",
+                        "Determining when machinery and equipment is likely to break down",
+                        "Offering benefits such as reducing latency and increasing network availability",
+                        "Pre-processing data to reduce the load on gateways, PLCs, and cloud resources" 
+                    ]
+                },
+                {
+                    "title":"eCommerce",
+                    "items":[
+                        "Automating invoicing and billing",
+                        "Helping businesses in advanced product positioning",
+                        "Optimizing the relationship between vendors and customers",
+                        "Generating real-time insights on package deliveries and shipments"
+                    ]
+                },
+                {
+                    "title":"Face Detection",
+                    "items":[
+                        "Detecting fraud in casinos",
+                        "Preventing retail store crimes",
+                        "Letting users unlock their phones",
+                        "Bringing in safety measures in schools",
+                        "Finding missing pets and animals",
+                        "Finding missing persons and children"
+                    ]
+                },
+                {
+                    "title":"Airlines",
+                    "items":[
+                        "Making safer and more trackable airline services",
+                        "Providing seamless check-in and airport procedures",
+                        "Evaluating the generated data from flight paths for various purposes such as fuel consumption and weather status"
+                    ]
+                },
+                {
+                    "title":"Smart Thermostat",
+                    "items":[
+                        "Checking, scheduling, and managing the temperature preferences"
+                    ]
+                },
+                {
+                    "title":"Logistics and Operations",
+                    "items":[
+                        "Optimizing supply chains",
+                        "Simplifying inventory management",
+                        "Detecting errors when an item goes out of stock",
+                        "Having effects on commercial fleets and delivery modules for safety and seamless operations" 
+                    ]
+                },
+                {
+                    "title":"Drone",
+                    "items":[
+                        "Monitoring traffic in real-time and reducing congestion",
+                        "Adjusting the speed limits and timing of traffic lights without human involvement",
+                        "Analyzing data and making decisions about how to alleviate traffic ​congestion best"
+                    ]
+                },
+                {
+                    "title":"Body Sensors",
+                    "items":[
+                        "Saving people in the industry, preventing calamities, and better tackling industrial hazards",
+                        "Predicting when a person is most likely to have a cardiac arrest and automatically notify doctors"
+                    ]
+                },
+                {
+                    "title":"Office Buildings",
+                    "items":[
+                        "Detecting what personnel are present",
+                        "Adjusting temperatures and lighting to improve energy efficiency",
+                        "Controlling building access through facial recognition technology"
+                    ]
+                }
+                
+            ],
+            "product":"Now that we know about the challenges and solutions in the IoT field, it is time to comprehend which one of our AI-based products is suitable enough to solve them. Face SDK, Document SDK, and License Plate SDK are the most practical and efficient products for making timelier and better-informed decisions by sensing the environment surrounding them."
+        },
+        "business":{
+            "title":"AI and Business & Finance",
+            "description":"Business and finance are boundless fields that have to do complex calculations and make tough financial decisions daily. Due to the enormous amount of time taken for doing these financial tasks, handling data, and making decisions toward them, manual mistakes were inevitable in many situations, which is why AI came to their aid. This industry requires the efficiency and precision of artificial intelligence; therefore, process automation, chatbots, adaptive intelligence, algorithmic trading, and machine learning are services that AI offers to financial activities.",
+            "first_card_title":"hallenges in business and finance",
+            "first_card_image":"AI-and-business-1.png",
+            "first_card_content":"Manually performing business and financial tasks and decisions may lead to efficiency and precision loss in many cases. This traditional controlling system will cause problems such as failing in times of crisis, not having good data quality in a massive amount of complex data, lack of efficient communication with customers, and poor management system. Therefore, using artificial intelligence to solve the existing problems will be effective, practical, more manageable, and less time-consuming.",
+            "second_card_title":"ut AI is ready to help you",
+            "second_card_image":"AI-and-business-2.png",
+            "second_card_content":"Business and financial activities play a vital role in human life. Addressing problems in the previous section causes a lot of dissatisfaction and disruption in the business-related tasks. But nowadays, to solve these issues, AI technology has helped us with its cutting edge solutions that lead to an advanced and anti-finance crime world which are categorized below:",
+            "problems":[
+                {
+                    "numbers":6,
+                    "subproblems":[
+                        {
+                            "title":"Traditional marketing",
+                            "description":"Traditional marketing needs a considerable amount of time and energy to do manual research, which may take days or months to reach a suitable result."
+                        },
+                        {
+                            "title":"Fraud",
+                            "description":"Although many banking transactions and businesses are carried out by digital devices, using these tools increases the potential of gaining access to certain confidential information by fraudsters."
+                        },
+                        {
+                            "title":"Customer support",
+                            "description":"Nowadays, customers usually communicate with organizations through phone or online chat. Operators who answer customer questions may offer the wrong solution or even have trouble answering. Also, operators may feel tired at certain times of the day and not be very efficient in providing the service."
+                        },
+                        {
+                            "title":"Customer satisfaction",
+                            "description":"Losing a single customer might not seem like a big deal. However, if it happens regularly due to poor communication, long waiting time, or inefficient problem resolution, it might jeopardize a large portion of your customer base."
+                        },
+                        {
+                            "title":"Repetitive and time-consuming tasks",
+                            "description":"Doing administrative work manually, frequently, and for an extended period will result in employee fatigue, human errors, efficiency loss, and lack of time to do high-priority work."
+                        },
+                        {
+                            "title":"Loan case problems",
+                            "description":"In addition to the time-intensive lending process, there are more issues and complexities in this area, such as lack of access to comprehensive information about the customer for assessing the potential risks in lending, insufficient credit, incorrect forecasts of loan repayment, possible errors, fraud, and money laundering."
+                        },
+                        {
+                            "title":"Extra expenses",
+                            "description":"Excessive use of human resources and machinery with high consumption and low processing speed causes unreasonable depreciation and money waste."
+                        },
+                        {
+                            "title":"Lack of real-time management",
+                            "description":"The absence of a proper system that can process information in real-time creates vast problems in transactions, auctions, and tenders for traders."
+                        },
+                        {
+                            "title":"Data analysis",
+                            "description":"Manually accessing, reviewing, and collecting information are the most cumbersome activities that reduce the efficiency of a commercial company, insurance office, bank, and any institution dealing with a vast amount of data."
+                        },
+                        {
+                            "title":"Data security",
+                            "description":"Lack of a proper security system and a solid database to maintain and protect information causes serious problems such as theft of confidential information of companies and customers and misuse of them."
+                        },
+                        {
+                            "title":"Personal finance",
+                            "description":"Sometimes, while executing wise financial decisions, we encounter problems in the personal finance field. As a result, wrong choices will lead to challenges such as mismanagement of business accounts and the creation of large debts."
+                        }
+                    ]
+                }
+            ],
+            "solutions":[
+                {
+                    "title": "Automation",
+                    "items":[
+                        "Gathering, managing, editing, and organizing information and documents instantly",
+                        "Predicting the risks, preventing bankruptcy and substantial financial losses",
+                        "Accelerating the process of time-consuming tasks",
+                        "Lowering false positives and human errors",
+                        "Reducing the need for repetitive work",
+                        "Interacting 24/7 with customers",
+                        "Managing tasks in real-time"
+                    ]
+                },
+                {
+                    "title":"Security",
+                    "items":[
+                        "Enhancing security, improving compliance, and reducing fraud",
+                        "Empowering the security systems to protect information",
+                        "Recognizing and verifying people’s identity"
+                    ]
+                },
+                {
+                    "title":"Operational costs",
+                    "items":[
+                        "Reducing the use of human resources",
+                        "Preventing energy, fund and time wastage"
+                    ]
+                },
+                {
+                    "title":"Personalization",
+                    "items":[
+                        "Helping save more money",
+                        "Getting more profit in comparison to traditional trading",
+                        "Corporating in personal trades by offering wise suggestions",
+                        "Scheduling payments, monitoring account activities and checking balances"
+                    ]
+                },
+                {
+                    "title":"Customer experience",
+                    "items":[
+                        "Being a financial advisor",
+                        "Scheduling a call to review market conditions",
+                        "Giving recommendations on where a customer should invest their money",
+                        "Alerting customers about suspected fraud or price hikes in subscription services"
+                    ]
+                }
+            ],
+            "product":"Now that we know about the challenges and solutions in the business and finance fields, it is time to comprehend which one of our AI-based products is suitable enough to solve them. Face SDK and Document SDK are the most practical and efficient products for personal and general businesses, companies, banks, and other offices while facing financial and business challenges."
+        },
+        "face":[
+            {
+                "title": "basic features",
+                "image": "technology-face-1.png",
+                "button_title": "face",
+                "technologies":[
+                    {
+                        "title": "Face Detection",
+                        "description":"Face detection process is the first step to identify a person's face to the computer. It detects one single or multiple faces in a picture or frames of a video."
+                    
+                    },
+                    {
+                        "title": "Face Alignment:",
+                        "description":"Face alignment system uses geometry and computation to prepare the detected face for further analysis and feature extraction. It corrects the scale and rotation of the picture based on the alignments needed in the software."
+                    
+                    },
+                    {
+                        "title": "Face Cropping:",
+                        "description":"Face cropping system gets the pictures with the aligned faces as input and crops them out in the desired size. It is used for cropping out multiple faces from a single image."
+                    
+                    }
+                ]
+            },
+            {
+                "title": "fundamental features",
+                "image": "technology-face-2.png",
+                "button_title": "face",
+                "technologies":[
+                    {
+                        "title": "Face Recognition:",
+                        "description":"Face recognition system identifies or confirms an individual’s identity using their face and is used to identify people in photos, videos, or in real-time."
+                    
+                    },
+                    {
+                        "title": "Face Verification (1:1):",
+                        "description":"Face verification system seeks to answer the question, “Is the person shown in the picture, who she is claiming to be?” Under a verification system, an individual presents herself as a specific person, and the system checks it with the recorded data in the database."
+                    
+                    },
+                    {
+                        "title": "Face Identification (1:N):",
+                        "description":"Face identification system is different from a verification system. The goal here is to identify an unknown person. The system tries to find a match from known faces in the database or returns “Unknown” in case of failure."
+                    
+                    },
+                    {
+                        "title": "Face Anti-Spoofing:",
+                        "description":"Face anti-spoofing is used to prevent false facial verification by using a photo, video, mask, or a different substitute for an authorized person’s face. Spoofed packets are commonly used to carry out denial of service (DoS) attacks, exploit network and system vulnerabilities and gain unauthorized access to corporate networks and data."
+                    
+                    }
+                ]
+            },
+            {
+                "title": "exceptional features",
+                "image": "technology-face-3.png",
+                "button_title": "face",
+                "technologies":[
+                    {
+                        "title":"Face Blurring:",
+                        "description":"Face blurring system is created with privacy in mind. It can anonymize the individual face in the picture or even in real-time videos. The system has multiple uses where the person wants to hide her identity."
+                    },
+                    {
+                        "title":"Face Landmark Detection:",
+                        "description":"Face landmark detection system uses computer vision and deep learning methods to identify critical points in an individual’s face. These vital points vary from 5 (main face points) to 68, which can be used for face attribute extraction or recognition systems. "
+                    },
+                    {
+                        "title":"Face Attribute Detection:",
+                        "description":"Face attribute detection system estimates multiple information from the individual’s face in the picture. This system represents facial characteristics with strong inherent stability and individual variation, which help identify individuals. Important variables include gender, skin tone, age, facial hair, expression, and Accessories, including headwear, glasses, makeup, and mask."
+                    },
+                    {
+                        "title":"Age & Gender Estimation:",
+                        "description":"Age and gender estimation system gives you a reliable approximation of a person’s age and gender."
+                    },
+                    {
+                        "title":"Emotion Expression Analysis:",
+                        "description":"Emotion expression analysis system is used to determine the person’s emotion based on the picture, whether it is” Happy,” “sad,” “Angry,” “Surprised,” “Afraid,” or “neutral.”"
+                    }
+                ]
+            },
+            {
+                "title": "special features",
+                "image": "technology-face-4.png",
+                "button_title": "face",
+                "technologies":[
+                    {
+                        "title":"Similar Search:",
+                        "description":"Similar search system gets a photo as an input and tries to find other images of the person from the database."
+                    },
+                    {
+                        "title":"Face Grouping:",
+                        "description":"Face grouping system is used to cluster unknown faces into groups by their similarity. Pictures of faces in the same group are more likely to belong to the same person."
+                    },
+                    {
+                        "title":"Celebrity Recognition:",
+                        "description":"Celebrity recognition system works by first finding relevant faces within an image or a video frame and then comparing them to the known list of celebrities. Our face recognition system works in a way that makes it robust and able to recognize celebrities in previously unknown images, just like a human would."
+                    }
+                ]
+            }
+        ],
+        "object":[
+            {
+                "title":"Basic Features",
+                "image":"technology-object-1.png",
+                "button_title":"object",
+                "technologies":[
+                    {
+                        "title":"Object Recognition:",
+                        "description":"Object recognition is a computer vision technique for identifying objects in images or videos. Furthermore, it is the process of determining the class a target object is associated with. This process consists of classifying, tagging, locating, and detecting objects within a picture at a given degree of confidence."
+                    },
+                    {
+                        "title":"Object Detection:",
+                        "description":"In this process, algorithms produce a list of object categories present in the image along with an axis-aligned bounding box indicating the position and scale of every instance of each object category."
+                    },
+                    {
+                        "title":"Single-Object Localization:",
+                        "description":"Single-object localization is a simpler version of the more broadly defined “Object Localization,” constraining the localization tasks to objects of one type within an image, which we may assume is a more straightforward process. In the single version, a list of object categories is presented in the image, along with an axis-aligned bounding box indicating the position and scale of one instance of each object category."
+                    }
+                ]
+            },
+            {
+                "title":"Special Features",
+                "image":"technology-object-2.svg",
+                "button_title":"object",
+                "technologies":[
+                    {
+                        "title":"Image Classification:",
+                        "description":"The algorithm will only remember an object and ignore all other classes in the image classification procedure."
+                    },
+                    {
+                        "title":"Image Tagging:",
+                        "description":"The image tagging will try to return all the best classes corresponding to the image."
+                    },
+                    {
+                        "title":"Object Tracking:",
+                        "description":"The tracking process is a method of automatically identifying, detecting, and following an object of interest within a sequence of images over some time and interpreting them as a set of trajectories with high accuracy. Furthermore, object tracking allows us to apply a unique ID to each tracked object, making it possible to count special objects in a video."
+                    }
+                ]
+            },
+            {
+                "title":"Special Points",
+                "image":"technology-object-3.svg",
+                "button_title":"object",
+                "technologies":[
+                    {
+                        "title":"Special Points (Rec vs. Det):",
+                        "description":"Object recognition and object detection are techniques with almost similar results and implementation approaches. However, the recognition process comes before the detection step in various systems and algorithms."
+                    },
+                    {
+                        "title":"Special Points (Det vs. Loc):",
+                        "description":"The difference between object detection and object localization is that object localization can recognize a group of objects and also one sample of each category, such as a human, a table, a chair, but object detection can detect every instance of each category of objects for example, in the picture, it recognizes all the tables and chairs, and so on."
+                    }
+                ]
+            }
+        ],
+        "document":[
+            {
+                "title":"Introduction",
+                "image":"technology-document-1.png",
+                "button_title":"document",
+                "technologies":[
+                    {
+                        "title":"Optical Character Recognition:",
+                        "description":"Optical character recognition (OCR), also referred to as text recognition, electronically or mechanically distinguishes handwritten or printed text characters from scanned documents or image files. Afterward, OCR examines and converts the extracted data into readable and editable formats for computers to process them efficiently."
+                    }
+                ]
+            },
+            {
+                "title":"Basic Features",
+                "image":"technology-document-2.png",
+                "button_title":"document",
+                "technologies":[
+                    {
+                        "title":"Acquiring Images:",
+                        "description":"Optical scanners can primarily capture and store physical documents in black and white. Then, OCR scanners have to replace every pixel in an image with a black or white pixel, which is a way to split the image."
+                    },
+                    {
+                        "title":"Preprocessing:",
+                        "description":"The goal of preprocessing is to make raw data usable by computers. This step is exceptionally vital for recognizing handwritten documents that are more sensitive to noise. By optimizing the noise level on an image and removing outside areas of the text, Preprocessing allows obtaining a clean character image to yield better results of the image recognition process."
+                    },
+                    {
+                        "title":"Cleaning-up:",
+                        "description":"Adjusting brightness and contrast, eliminating pollution and noise on a white background, removing borders, and calibrating the detection threshold are activities done in this step."
+                    },
+                    {
+                        "title":"Deskewing the Image:",
+                        "description":"The characters are in a straight line on a regular page. However, this may not be true in a less-than-perfect page scan. The book’s binding could raise pages above the scanner’s lens, creating a skew or curved image of the text. The deskewing process helps straighten such images."
+                    },
+                    {
+                        "title":"Normalization:",
+                        "description":"This function calls for equalization of the histogram to normalize the image under varying light conditions. Then the image is smoothened to reduce the noise created during the equalization process."
+                    }
+                ]
+            },
+            {
+                "title":"Special Features",
+                "image":"technology-document-3.png",
+                "button_title":"document",
+                "technologies":[
+                    {
+                        "title":"Segmentation:",
+                        "description":"The process of segmentation is aimed at grouping characters into meaningful classes. There can be predefined classes for characters, and images will be scanned for patterns that match those classes."
+                    },
+                    {
+                        "title":" Feature Detection:",
+                        "description":"The OCR system applies rules regarding the features of a specific number or letter to recognize characters in the scanned document. Character features can include the number of angled lines, crossed lines, or curves for comparison. For example, the letter “A” may be recognized as two diagonal lines that meet with a horizontal line across the middle."
+                    },
+                    {
+                        "title":"Pattern Recognition:",
+                        "description":"The OCR system provides examples of text in various fonts and formats, which trains the system, compares and recognizes characters in scanned documents."
+                    },
+                    {
+                        "title":"Training a Neural Network:",
+                        "description":"Once all the features are extracted, they will be fed into a neural network (NN) for training and recognizing characters. A training dataset and the methods applied to achieve the best output will depend on a problem that requires an OCR-based solution."
+                    }
+                ]
+            }
+        ],
+        "licensePlate":[
+            {
+                "title":"Introduction",
+                "image":"technology-licensePlate-1.png",
+                "button_title":"LICENSE PLATE",
+                "technologies":[
+                    {
+                        "title":"Automatic Number Plate Recognition:",
+                        "description":"Automatic Number Plate Recognition (ANPR) is a system to identify and recognize the exact location of license plates in images and videos received from surveillance cameras. This system searches for numbers and symbols in plates of a motor vehicle. The extracted data in image pixels is evaluated by the optical character recognition system (OCR) and translated into readable digital data."
+                    },
+                    {
+                        "title":"Applications:",
+                        "description":"It is used at many places for automatic highway parking systems, traffic safety enforcement systems, automatic toll collection gates, car parking systems, automated petrol stations, and border security gates."
+                    },
+                    {
+                        "title":"Vehicle Make and Model Recognition:",
+                        "description":"A Vehicle Make and Model Recognition system (VMMR) can significantly improve vehicle monitoring and identification procedures based on vehicle appearance instead of the vehicles' attached license plate."
+                    },
+                    {
+                        "title":"Applications:",
+                        "description":"VMMR system is an essential component of many Intelligent Transportation System (ITS) applications, such as automatic vehicle surveillance, traffic management, driver assistance systems, traffic behavior analysis, and traffic monitoring."
+                    },
+                    {
+                        "title":"Vehicle Type Classification:",
+                        "description":"Vehicle Type Classification (VTC) is a system that classifies vehicles into different types for effective traffic performance and accurate transportation planning."
+                    },
+                    {
+                        "title":"Applications:",
+                        "description":"Information such as the number of large trucks on a highway section is used to estimate the capacity of the highway section and plan for pavement maintenance work."
+                    }
+                ]
+            },
+            {
+                "title":"Basic Features",
+                "image":"technology-licensePlate-2.svg",
+                "button_title":"LICENSE PLATE",
+                "technologies":[
+                    {
+                        "title":"Vehicle Detection:",
+                        "description":"The vehicle detection system uses passive infrared sensors to identify the moving or stationary vehicle"
+                    },
+                    {
+                        "title":"Image Acquisition:",
+                        "description":"In the imaging process, a photo is taken to extract real-time information from a stationary or moving vehicle in such a way that the front or rear view of the vehicle is marked with its license plate number."
+                    },
+                    {
+                        "title":"Image Preprocessing:",
+                        "description":"To enhance the quality of the images captured by the camera, they need to be processed. This process involves background subtraction, enhancing contrast, sharpening or smoothing, and noise removal."
+                    }
+                ]
+            },
+            {
+                "title":"Special Features",
+                "image":"technology-licensePlate-3.svg",
+                "button_title":"LICENSE PLATE",
+                "technologies":[
+                    {
+                        "title":"Character Segmentation:",
+                        "description":"The first step of the character segmentation process is isolating the image from the background to identify each text correctly. Afterward, it crops out the required plate number and divides the image composed of characters into sub-images of individual symbols."
+                    },
+                    {
+                        "title":" Number Plate Recognition:",
+                        "description":"Number plate recognition searches the sub-images of the plate to specify the contained features. It involves processing each frame of the sub-images in real-time to provide vision to the computer."
+                    },
+                    {
+                        "title":"Character Recognition:",
+                        "description":"In the character recognition process, OCR and OpenCV are fully utilized to convert existing image pixels and information into readable digital data."
+                    }
+                ] 
+            }
+        ],
+        "gan":[
+            {
+                "title":"Introduction",
+                "image":"technology-gan-1.png",
+                "button_title":"GAN",
+                "technologies":[
+                    {
+                        "title":"Generative Adversarial Network:",
+                        "description":"The generative adversarial network (GAN) uses deep learning technologies, machine learning, and neural networks and is based on the game theory approach in the form of a zero-sum game, where one agent's gain is another agent's loss."
+                    }
+                ]
+            },
+            {
+                "title":"Basic Features",
+                "image":"technology-gan-2.png",
+                "button_title":"GAN",
+                "technologies":[
+                    {
+                        "title":"GAN Structure:",
+                        "description":"GAN consists of two artificial intelligence models known as generator and discriminator. The core idea of GAN technology is based on indirect training of the generator through the discriminator, which itself is also being updated dynamically."
+                    },
+                    {
+                        "title":"Discriminator vs. Generator:",
+                        "description":"The discriminator model tries to predict certain classes given certain features. The generator model tries to predict features given classes. This process involves determining the probability of a feature given a class. Also, the generator generates new instances of an object while the discriminator determines whether the new instance belongs to the actual dataset."
+                    },
+                    {
+                        "title":"GAN Functionality:",
+                        "description":"The discriminator model operates like a standard binary classifier classifying images into different categories. It determines whether an image is actual and from a given dataset or is artificially generated by the generator model. The two models are trained together and compete on the GAN network until the discriminator model is fooled about half the time, meaning the generator model generates plausible examples."
+                    }
+                ]
+            },
+            {
+                "title":"Applications",
+                "image":"technology-gan-3.png",
+                "button_title":"GAN",
+                "technologies":[
+                    {
+                        "title":"Applications of GAN:",
+                        "description":"Many applications can benefit from GAN technology, such as Deepfakes, photo blending, text-to-image generation, image to image translation, photos to emojis converter, increasing resolution of an image, and predicting the next frame in a video."
+                    },
+                    {
+                        "title":"Deepfake:",
+                        "description":"Deepfakes are synthetic media in which a person in an existing image or video is replaced with someone else's likeness. While the act of faking content is not new, deepfake leverages powerful techniques from machine learning, deep learning, and artificial intelligence to manipulate or generate visual and audio content with a high potential to deceive."
+                    }
+                ]
+            }
+        ],
+        "faceSDK":{
+            "title": "Face SDK",
+            "image": "/assets/images/Face-product.png",
+            "technologies":[
+                {
+                    "title": [
+                        "Face detection",
+                        "Face Alignment ",
+                        "Face Cropping"
+                        ]
+                },
+                {
+                    "title": [
+                        "Face Recognition ",
+                        "Face Verification (1:1)",
+                        "Face Identification (1:N) ",
+                        "Face Anti-Spoofing"
+                        ]
+                },
+                {
+                    "title": [
+                        "Face Blurring",
+                        "Face Landmark Detection",
+                        "Face Attribute Detection",
+                        "Age & Gender Estimation",
+                        "Emotion Expression Analysis"
+                        ]
+                },
+                {
+                    "title": [
+                        "Similar Search",
+                        "Face Grouping",
+                        "Celebrity Recognition"
+                        ]
+                }
+            ],
+            "advantages": [
+                "High accuracy",
+                "Real-time action",
+                "Layered security",
+                "Image data encryption",
+                "No racial discrimination",
+                "Data breach precaution",
+                "2D - 3D liveness detection",
+                "Automatically data purging",
+                "No need for a specialist to set up"
+            ],
+            "description":
+                "Face-related technologies are a set of algorithms working together to identify people in videos or static images. These technologies have existed for decades, but they have recently become highly prevalent, innovative, and practical. One such innovation is the integration of artificial intelligence. Smart, AI-based software can instantaneously search multiple databases to compare, detect and recognize any claimed face in the scene. As a result, you can get highly accurate results in an instant."
+            
+        },
+        "documentSDK":{
+            "title": "Document SDK",
+            "image": "/assets/images/Document-product.png",
+            "technologies":[
+                {
+                    "title": [
+                        "Optical Character Recognition"
+                    ]
+                },
+                {
+                    "title": [
+                        "Acquiring Images",
+                        "Preprocessing",
+                        "Cleaning-up",
+                        "Deskewing the image",
+                        "Normalization"
+                    ]
+                },
+                {
+                    "title": [
+                        "Segmentation",
+                        "Feature detection",
+                        "Pattern recognition",
+                        "Training a Neural Network"
+                    ]
+                }
+            ],
+            "advantages": [
+                "Data cleaning",
+                "Data validation",
+                "Anomaly detection",
+                "Content preservation",
+                "High-accuracy extraction",
+                "Multi-level document classification"
+            
+            ],
+            "description":"Humans are constantly endeavoring to improve and accelerate the process of their essential tasks. One of the most susceptible areas in need of high speed and accuracy is scanning documents and extracting features and information from written or printed text. Recently, this procedure has become intelligent through the integration of AI and OCR technology, resulting in remarkable precision. As a result, acquiring AI-based software using document recognition technologies leads to highly accurate detection, extraction, and conversion of raw data into digital data for further usage."
+    
+        },
+        "licensePlateSDK":{
+            "title": "License Plate SDK",
+            "image": "/assets/images/LicensePlate-product.png",
+            "technologies":[
+                {
+                    "title": [
+                        "Automatic Number Plate Recognition ",
+                        "Vehicle Make and Model Recognition",
+                        "Vehicle Type Classification"
+                    ]
+                },
+                {
+                    "title": [
+                        "Vehicle Detection",
+                        "Image Acquisition",
+                        "Image Preprocessing"
+                    ]
+                },
+                {
+                    "title": [
+                        "Character Segmentation",
+                        "Number Plate Recognition",
+                        "Character Recognition"
+                    ]
+                }
+            ],
+            "advantages": [
+                "Detailed reports",
+                "Different plate style management",
+                "Automatic matching and real-time alerting",
+                "Search, detect, and recognize real-time and archived footage"
+            ],
+            "description":"Traditional techniques in recognizing license plates rely on specialized cameras and processing hardware, which is expensive to deploy and difficult to maintain. Since providing complete services in the relevant fields in real-time is essential, integrating artificial intelligence technologies is in order. Nowadays, AI-based technologies used in license plate recognition systems allows information extraction and data conversion, resulting in instant reports about any vehicle from a single point."
+    
+        }
+        
+    }
+}
